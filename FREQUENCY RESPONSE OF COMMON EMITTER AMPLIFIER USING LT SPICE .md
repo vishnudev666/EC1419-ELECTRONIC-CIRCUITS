@@ -24,14 +24,16 @@
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
-## Tabulation
-
 ## Graph
+<img width="867" height="216" alt="image" src="https://github.com/user-attachments/assets/1853eec3-c7ca-4593-bec3-a32de1f26205" />
+
+## Calculation
+<img width="955" height="522" alt="image" src="https://github.com/user-attachments/assets/e675c6c2-b963-4512-b38a-c061df5acf0a" />
 
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN =**
+**VOLTAGE GAIN = 65dB**
 
-**BANDWIDTH =**
+**BANDWIDTH = 69.9Mhz**
